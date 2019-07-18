@@ -1,2 +1,3 @@
 databases/passwords.txt
 databases/passwords_prod.txt
+ssh/my_first_key.pem
